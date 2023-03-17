@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/func.h
+stdio.h
+-
+
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/main.cpp
+iostream
+-
+func.h
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/func.h
+sqlist.h
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/sqlist.h
+
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/sqlist.cpp
+sqlist.h
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/sqlist.h
+
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/sqlist.h
+func.h
+D:/AllanFile/git/Post-graduateExamination_408andC/1_wangdao_DataStru/Linear_List/func.h
+
